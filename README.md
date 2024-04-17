@@ -17,9 +17,12 @@
 
 - ⭐ Passionate about Cybersecurity
 - 📲 Constantly learning Pentester
-- 📗 I'll be uploading some writeups of CTFs from the most popular platforms
+- :books: I'll be uploading some writeups of CTFs from the most popular platforms
 - 🎥 Coming soon on YouTube
-- 🧑‍🏫 "Cositas" are coming!
+- 🍫 "Cositas" are coming!
+
+
+
 
 <br>
 <!--
