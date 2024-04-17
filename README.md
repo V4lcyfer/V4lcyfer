@@ -3,7 +3,9 @@
 
 <div align="center">
 <h1 align="center">Hola, soy <a href="https://www.linkedin.com/in/john-jairo-rimarachin-sanchez-35aa8074/">V4lcyfer</a> 👋</h1>
- <img src="https://imgur.com/zl97WYP.png">
+ <!--<img src="https://imgur.com/zl97WYP.png">-->
+ <img src="https://imgur.com/mrSgmq2.png">
+ 
 </div>
 
 
