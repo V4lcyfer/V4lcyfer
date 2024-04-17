@@ -1,6 +1,13 @@
-### Hi there 👋
+
+<!--Centrado de cabecera -->
+
+<div align="center">
+<h1 align="center">Hola, soy <a href="https://www.linkedin.com/in/john-jairo-rimarachin-sanchez-35aa8074/">V4lcyfer</a> 👋</h1>
+</div>
+
 
 <!--
+### Hi there, I'm [V4lcyfer](https://durgeshsamariya.github.io)
 **V4lcyfer/V4lcyfer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
