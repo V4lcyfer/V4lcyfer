@@ -2,7 +2,7 @@
 <!--Centrado de cabecera -->
 
 <div align="center">
-<h1 align="center">Hola, soy <a href="https://www.linkedin.com/in/john-jairo-rimarachin-sanchez-35aa8074/">V4lcyfer</a> 👋</h1>
+<h1 align="center">Hi there, I'm <a href="https://www.linkedin.com/in/john-jairo-rimarachin-sanchez-35aa8074/">V4lcyfer</a> 👋</h1>
  <!--<img src="https://imgur.com/zl97WYP.png">-->
  <img src="https://imgur.com/mrSgmq2.png">
  
@@ -13,12 +13,13 @@
 <!--banner -->
 
 <!--Contenido sobre mi -->
-## Sobre mi
+## About me
 
-- ⭐ Apasionado por la Ciberseguridad
-- 📲 Pentester en constante aprendizaje
-- 📗 Subire algunos writeups de CTFs de las plataformas mas populares
-- 🎥 Pronto en Youtube
+- ⭐ Passionate about Cybersecurity
+- 📲 Constantly learning Pentester
+- 📗 I'll be uploading some writeups of CTFs from the most popular platforms
+- 🎥 Coming soon on YouTube
+- 🧑‍🏫 "Cositas" are coming!
 
 <br>
 <!--
